@@ -1,1 +1,1 @@
-RUN apt-get install -y libgsl2 libgsl-dev
+RUN apt-get install -y pkg-config libgsl2 libgsl-dev
