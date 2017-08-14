@@ -1,5 +1,4 @@
 module GSLApi [system] {
   header "GSLApi.h"
-  link "GSLApi"
   export *
 }
